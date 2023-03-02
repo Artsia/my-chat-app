@@ -38,7 +38,7 @@ function App() {
     <div className="App">
       <div className='chatResponse'>
 
-        {/**user chat box responses */}
+        {/**user chat box responses **/}
 
       </div>
       <div className='commentSec'>
